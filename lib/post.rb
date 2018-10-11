@@ -23,7 +23,4 @@ class Post
   def self.all 
     @@all 
   end 
-
-
- 
 end 
