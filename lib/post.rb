@@ -17,7 +17,7 @@ class Post
   end 
   
   def self.all 
-    if 
+    @@all 
   end 
 
 
